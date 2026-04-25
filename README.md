@@ -1,4 +1,4 @@
-# C# Pratik Projeler
+# C# ile Pratik Projeler
 
 Bu depoda, C# öğrenirken yapmış olduğum temel pratikler ve alıştırmaları topluyorum.
 
