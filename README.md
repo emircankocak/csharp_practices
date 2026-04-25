@@ -3,8 +3,8 @@
 Bu depoda, C# öğrenirken yapmış olduğum temel pratikler ve alıştırmaları topluyorum.
 
 ## İçerik
-**Array-1** Diziler ile ilgili temel işlemler ve döngü pratikleri.
-** Metotlar:** Fonksiyon yapısı ve parametre kullanımları.
+* ** Array-1** Diziler ile ilgili temel işlemler ve döngü pratikleri.
+* ** Metotlar:** Fonksiyon yapısı ve parametre kullanımları.
 
 ## Nasıl Çalıştırılır?
 1. Bu projeyi indirin.
